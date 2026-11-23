@@ -1,6 +1,6 @@
 # Watch Align privacy policy
 
-Effective date: 22 November 2026
+Effective date: 23 November 2026
 App: Watch Align (Android, package `com.watchalign.mobile.poc`)
 Developer: Watch Align Studio, United Kingdom
 Contact: watchalignstudio@gmail.com
@@ -27,11 +27,11 @@ Result images you choose to save remain in your Gallery or chosen location until
 
 If the app crashes, it may save the latest error report privately on your device. The report contains the app version, Android version, device manufacturer and model, and technical error details. It is not sent automatically. The start screen offers a Share error report button, which opens Android's sharing screen so you can choose whether and where to send it.
 
-When you choose to export or share a Calibration Pack, Android's file or sharing screen lets you choose where it goes. An exported or shared copy is outside the app's private storage and is not removed when you uninstall the app or clear its data.
+When you choose to export or share a Calibration Pack, Android's file or sharing screen lets you choose where it goes. An exported pack includes its name, description and any author text you enter. Do not include information in these fields that you do not want to share. An exported or shared copy is outside the app's private storage and is not removed when you uninstall the app or clear its data.
 
 ## What the app does not do
 
-- It has no internet access and requests no permissions, including the network permission. Nothing is sent automatically; saving or sharing a results image, optional exports, sharing and feedback use Android’s system interface or your own email app, and any onward sharing is under your control and the receiving service's privacy policy.
+- It has no internet access and does not request the network permission. It needs no camera, storage or media permission. The Google Play build requests the Play licence-check permission (com.android.vending.CHECK_LICENSE). Nothing is sent automatically; saving or sharing a results image, optional exports, sharing and feedback use Android’s system interface or your own email app, and any onward sharing is under your control and the receiving service's privacy policy.
 - It contains no advertising, analytics or tracking software. There is no automatic or remote crash reporting. Optional error reports are stored locally until you choose to share them.
 - It has no accounts and asks for no personal information.
 
